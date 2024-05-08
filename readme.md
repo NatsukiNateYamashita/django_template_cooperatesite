@@ -2,7 +2,7 @@
 
 
 # Django Template
-Developped by [devnamdev2003/Django_template](https://github.com/devnamdev2003/Django_template)
+Developped by [gitdevnamdev2003/Django_template](https://github.com/devnamdev2003/Django_template)
 
 ## Overview
 
